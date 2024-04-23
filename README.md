@@ -1,1 +1,1 @@
-"Titanic Insights: Exploring Passenger Data"
+"Titanic Passenger Data Analysis"
